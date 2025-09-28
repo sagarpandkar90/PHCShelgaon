@@ -32,3 +32,6 @@ dist/
 # OS files
 .DS_Store
 Thumbs.db
+
+test_db.py
+beneficiaries_list.xlsx
